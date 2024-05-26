@@ -25,7 +25,7 @@ To use this script, you'll need to create a Discord bot application and obtain i
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rodmutt/discord-chat-bot.git
+   git clone https://github.com/profshad0/discord-chat-bot.git
    ```
 
 2. Navigate to the project directory:
